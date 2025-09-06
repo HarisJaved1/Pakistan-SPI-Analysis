@@ -28,10 +28,10 @@ It provides insights into inflation drivers, city-level affordability, and commo
 | Max_Price       | Maximum price observed                       |
 | Unit            | Measurement unit (e.g., per kg, per dozen)   |
 
-✅ **Rows:** ~XX,XXX  
+✅ **Rows:** ~85154  
 ✅ **Time Period:** 2023-01 to 2025-08  
-✅ **Cities Covered:** XX  
-✅ **Items Covered:** XX  
+✅ **Cities Covered:** 16  
+✅ **Items Covered:** 56 
 
 ---
 
@@ -60,7 +60,7 @@ Key analysis performed:
 
 1️⃣ **Luxury & Utility Costs Are Driving Inflation**  
 - Ladies Sandal (Bata) prices surged **+52.5% YoY**  
-- Gas Charges for Q1 rose **+38.3% YoY**
+- Gas Charges rose **+38.3% YoY**
 
 2️⃣ **Sugar & Protein Are Becoming Expensive**  
 - Sugar (Refined): **+17.4% YoY**  
@@ -97,7 +97,11 @@ Key analysis performed:
 
 ## 📷 Sample Visuals
 
-_(Screenshots of your key charts will go here — add once you’ve exported visuals from your notebook!)_
+<img width="1389" height="590" alt="output" src="https://github.com/user-attachments/assets/475abb8b-baae-4de6-8a16-2d5be5ff603a" />
+
+
+<img width="695" height="493" alt="output1" src="https://github.com/user-attachments/assets/0e664f19-5dcc-4591-bbec-04eb3301d093" />
+
 
 ---
 
