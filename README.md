@@ -102,6 +102,16 @@ Key analysis performed:
 
 <img width="695" height="493" alt="output1" src="https://github.com/user-attachments/assets/0e664f19-5dcc-4591-bbec-04eb3301d093" />
 
+<img width="1188" height="590" alt="output3" src="https://github.com/user-attachments/assets/e3c7eaa4-da2b-4309-b414-f4ed25588c2d" />
+
+<img width="1225" height="549" alt="output" src="https://github.com/user-attachments/assets/1b38b095-8fed-4060-9f52-745d1eb7c7ad" />
+
+<img width="1389" height="690" alt="output5" src="https://github.com/user-attachments/assets/9f642212-2356-44c5-8ee3-c6dbe8da6723" />
+
+<img width="1215" height="547" alt="output6" src="https://github.com/user-attachments/assets/934217e3-5879-4e36-9b86-17643fecfa80" />
+
+
+
 
 ---
 
