@@ -117,7 +117,7 @@ Key analysis performed:
 
 ## 📌 About This Project
 
-This project was built as part of a **data analytics internship** and extended as a **portfolio project** to demonstrate:  
+This project was built as part of a **portfolio project** to demonstrate:  
 - Data wrangling and cleaning skills  
 - Advanced analysis and visualization techniques  
 - Real-world relevance by focusing on Pakistan’s economy
